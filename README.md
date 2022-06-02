@@ -1,2 +1,3 @@
 # E_Election
 A web application that gives people ability to cast their precious vote in their palm. 
+The idea is raw and implementation of this web application is rough. This application can be further improved by includeing various informative videos about awareness of election and voting rights. All the laws about election can be mentioned. To make all this process secure we can scan the voter id live during voting and also a secret number code can be given to voters. The voter can login only once into the website with in the given timeframe. Say Election is held for 3 days then voters can login only once after that the credentials are expired. And we can use blockchain technology to maintain the record so that it can be hard to hack into records.
